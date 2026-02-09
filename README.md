@@ -22,3 +22,7 @@ C# Unity Group Project
     -  Scoreboard Manager, that saves a highscore each playthrough, so players are able to compete for the first position in the highscore. Highscore is saved locally on the machine everytime the game is booted up. 
     -  Falling Objects, that deals damage to players. That spawns at different times at different spawn locations based on the players location.
  
+<h2>Tools Used:</h2>
+
+- Unity 2022.3.44
+- Blender
