@@ -15,9 +15,10 @@ C# Unity Group Project
 
 <h2>Contribution:</h2>
 
-- For this Group Project, I was the lead Programmer, I've developed the backbone of the gameplay Loop, Such as:
+- For this Group Project, I was the lead Programmer, I've Producing scripts , Such as:
   
-    -  Producing scripts like Level Manager, to manage core gameplay variables, such as Increasing Level Difficulty, handling beehive spawn rate and the player taking damage.
+    -  Level Manager, to manage core gameplay variables, such as Increasing Level Difficulty, handling beehive spawn rate and the player taking damage.
+    -  Audio Manager and Ui Manager
     -  Scoreboard Manager, that saves a highscore each playthrough, so players are able to compete for the first position in the highscore. Highscore is saved locally on the machine everytime the game is booted up. 
     -  Falling Objects, that deals damage to players. That spawns at different times at different spawn locations based on the players location.
  
