@@ -15,7 +15,7 @@ C# Unity Group Project
 
 <h2>Contribution:</h2>
 
-- For this Group Project, I was the lead Programmer, I've Producing scripts , Such as:
+- For this Group Project, I was the lead Programmer, producing scripts , Such as:
   
     -  Level Manager, to manage core gameplay variables, such as Increasing Level Difficulty, handling beehive spawn rate and the player taking damage.
     -  Audio Manager and Ui Manager
